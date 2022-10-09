@@ -29,3 +29,11 @@ The visual assets were committed alongside the code because the overall size of 
 - More enemies derived from the GenericEnemy abstract class
 - Upgrades and powerups (faster fire rate, more damage, damage resistance, number of projectiles fired)
 - More Types of terrain. (Currently, only 2 terrain types are included: Rocks that block the path but don't destroy projectiles, and terrain that does destroy projectiles)
+
+## HOW TO INSTALL
+
+#### QUICK WAY:
+- Step 1: Download the repository zip
+- Step 2: Extract the zip files into a new folder specifically for this project
+- Step 3: Install the Unity Hub and Unity Engine(if you dont have it)
+- Step 4: Open Unity Hub and click open, then navigate to the folder you created for this project and select it.
