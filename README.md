@@ -1,7 +1,7 @@
 # Pirates2D
  A simple top-down shooter with a pirate aesthetic.
 
----LARGE DESCRIPTION
+---LARGE DESCRIPTION:
 This is a simple top-down shooter in which the player controls a physics-based ship and must navigate to dodge the incoming enemy ships and cannonballs while also shooting at those enemies to destroy them and score points while a clock tics down. 
 
 --- CONFIGURATION:
@@ -25,7 +25,7 @@ The project also features 2 "in-game" configurable settings, Enemy Spawn Timer a
 The visual assets were committed alongside the code because the overall size of the project is very small, if the project size were any bigger id instead use storage for those kinds of assets. 
 
 --- POSSIBLE IMPROVEMENTS:
-More abstraction of the scripts.
-More enemies derived from the GenericEnemy abstract class
-Upgrades and powerups (faster fire rate, more damage, damage resistance, number of projectiles fired)
-More Types of terrain. (Currently, only 2 terrain types are included: Rocks that block the path but don't destroy projectiles, and terrain that does destroy projectiles)
+- More abstraction of the scripts. 
+- More enemies derived from the GenericEnemy abstract class
+- Upgrades and powerups (faster fire rate, more damage, damage resistance, number of projectiles fired)
+- More Types of terrain. (Currently, only 2 terrain types are included: Rocks that block the path but don't destroy projectiles, and terrain that does destroy projectiles)
