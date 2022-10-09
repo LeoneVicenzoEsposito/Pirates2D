@@ -33,5 +33,5 @@ The visual assets were committed alongside the code because the overall size of 
 ## HOW TO INSTALL
 - Step 1: Download the repository zip
 - Step 2: Extract the zip files into a new folder specifically for this project
-- Step 3: Install the Unity Hub and Unity Engine(if you dont have it)
+- Step 3: Download and install the Unity Hub and Unity Engine (if you dont have it)
 - Step 4: Open Unity Hub and click open, then navigate to the folder you created for this project and select it.
