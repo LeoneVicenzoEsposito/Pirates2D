@@ -31,8 +31,6 @@ The visual assets were committed alongside the code because the overall size of 
 - More Types of terrain. (Currently, only 2 terrain types are included: Rocks that block the path but don't destroy projectiles, and terrain that does destroy projectiles)
 
 ## HOW TO INSTALL
-
-#### QUICK WAY:
 - Step 1: Download the repository zip
 - Step 2: Extract the zip files into a new folder specifically for this project
 - Step 3: Install the Unity Hub and Unity Engine(if you dont have it)
