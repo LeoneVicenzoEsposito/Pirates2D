@@ -24,7 +24,7 @@ The project also features 2 "in-game" configurable settings, Enemy Spawn Timer a
 #### IMAGES: 
 The visual assets were committed alongside the code because the overall size of the project is very small, if the project size were any bigger id instead use storage for those kinds of assets. 
 
---- POSSIBLE IMPROVEMENTS:
+#### POSSIBLE IMPROVEMENTS:
 - More abstraction of the scripts. 
 - More enemies derived from the GenericEnemy abstract class
 - Upgrades and powerups (faster fire rate, more damage, damage resistance, number of projectiles fired)
