@@ -1,7 +1,7 @@
 # Pirates2D
  A simple top-down shooter with a pirate aesthetic. 
 
-#### Unity versions:  2021.3.9f1 LTS
+#### Unity versions:  2021.3.9f1 LTS and 2021.3.11f1 LTS
 
 #### LARGE DESCRIPTION:
 This is a simple top-down shooter in which the player controls a physics-based ship and must navigate to dodge the incoming enemy ships and cannonballs while also shooting at those enemies to destroy them and score points while a clock tics down. 
