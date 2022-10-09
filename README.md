@@ -8,12 +8,12 @@ This is a simple top-down shooter in which the player controls a physics-based s
 
 #### CONFIGURATION:
 The project is fully configurable, in the editor it's possible to change:
-Max and minimum enemy spawn rate
-how fast the enemies and players move
-how much damage do the enemies or players cause
-how many times per second does the ShootingEnemy or player fires
-Setting the bullet velocity for each. 
-It's also possible to change the effects the ships create when they fire and what effect the bullets cause when they hit something (only 1 is shipped on this project).
+- Max and minimum enemy spawn rate
+- how fast the enemies and players move
+- how much damage do the enemies or players cause
+- how many times per second does the ShootingEnemy or player fires
+- Setting the bullet velocity for each. 
+- It's also possible to change the effects the ships create when they fire and what effect the bullets cause when they hit something (only 1 is shipped on this project).
 
 The project also features 2 "in-game" configurable settings, Enemy Spawn Timer and Playtime. Which will respectively increase the rate at which enemies spawn and change how long the play session will last.
 
