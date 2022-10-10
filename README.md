@@ -1,6 +1,9 @@
 # Pirates2D
  A simple top-down shooter with a pirate aesthetic. 
 
+#### Gameplay showcase:
+https://www.youtube.com/watch?v=BZ7cUgY9v8I
+
 #### Unity versions:  2021.3.9f1 LTS and 2021.3.11f1 LTS
 
 #### LARGE DESCRIPTION:
